@@ -1,0 +1,34 @@
+
+/* Hoja de estilos de cusos.html*/
+
+header{
+    display: block;
+    width: 70%;
+    float: left;
+    border: 1px solid blue;
+}
+
+.centrarVertical{
+    margin: 0 auto;
+}
+
+.ancho60{
+    width: 60%;
+    display: block;
+    float: left;
+}
+
+.ancho40{
+    width: 40%;
+    display: block;
+    float: left;
+}
+
+a.cursos{
+    display: inline-block;
+    text-decoration: none;
+    color: aqua;
+    padding: 0px;
+    margin: 0px;
+}
+
